@@ -25,7 +25,7 @@
 
 - **Computer Requirements**
   - Students have successfully deployed PKC on laptops that are 3-5 years old
-  - **Minimum requirements**: Computer with at least 8GB of RAM and 14GB of storage
+  - **Minimum requirements**: Computer with at least 8GB of RAM and 20GB of storage
   - Compatible with Linux, Windows, and Mac operating systems
   - Runs well on regular machines
 

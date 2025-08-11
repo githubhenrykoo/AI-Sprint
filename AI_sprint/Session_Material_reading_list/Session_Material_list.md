@@ -18,6 +18,14 @@ This document organizes all reading materials by session to provide a structured
 ### Supplementary Materials:
 - **RAG_Retrieval_Augmented_Generation.md** - For participants interested in how AI can work with their personal data
 
+### Video Resources:
+- [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) - Detailed explanation of LLMs
+- [What is Retrieval-Augmented Generation (RAG)?](https://www.youtube.com/watch?v=T-D1OfcDW1M) - Brief RAG overview
+- [RAG Explained](https://www.youtube.com/watch?v=qppV3n3YlF8) - Deeper dive into RAG
+
+### Project Resources:
+- [PKC Project GitHub Repository](https://github.com/githubhenrykoo/PKC) - Source code and documentation
+
 ### Learning Objectives:
 - Understand what Large Language Models are and how they work
 - Recognize the differences between cloud-based and local AI models
@@ -68,6 +76,13 @@ This document organizes all reading materials by session to provide a structured
   - Describes another approach to virtual networking
   - Compares with ZeroTier for broader understanding
 
+### Video Resources:
+- [ZeroTier Simple Network Setup](https://www.youtube.com/watch?v=EPYUOkxgiCA) - Step-by-step setup guide
+- [How does ZeroTier actually work?](https://www.youtube.com/watch?v=Lao9T_RQTak) - Technical explanation
+
+### Project Resources:
+- [TOSIOS GitHub Repository](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter game used for demonstration
+
 ### Learning Objectives:
 - Understand virtual networking concepts and implementation
 - Master ZeroTier setup and configuration for peer connectivity
@@ -78,8 +93,18 @@ This document organizes all reading materials by session to provide a structured
 
 ---
 
+## Session 4: Containerization with Docker
 
+### Core Materials:
+- **Docker_Containerization.md** - Comprehensive guide to Docker containerization
 
+### Video Resources:
+- [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjnup-PuquQ) - Quick introduction
+- [What is Docker in 5 minutes](https://www.youtube.com/watch?v=_dfLOzuIg2o) - Visual explanation of Docker concepts
 
+### Learning Objectives:
+- Understand container technology fundamentals
+- Learn Docker basics for local application deployment
+- Prepare for containerized application development
 
-How does zerotier actuly works?  https://www.youtube.com/watch?v=Lao9T_RQTak
+---
