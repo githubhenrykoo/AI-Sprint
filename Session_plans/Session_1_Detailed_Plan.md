@@ -180,7 +180,7 @@
 - Show integration with widely-used, free tools
 - Demonstrate seamless tool integration
 
-##### E. IoT Device Demonstration (guided by Dewey)
+##### E. IoT Device Demonstration (guided by Duwi)
 - Brief IoT introduction
 - Show previous project's IoT devices:
   - Energy meter, humidity sensor, air quality
