@@ -9,25 +9,6 @@ This session explores PKC implementation, continuous integration, Git integratio
 
 ## Session Structure
 
-### Pre-Session Setup
-
-#### Installation/Setup Support
-* Git installation verification
-* SSH key configuration for GitHub
-* PKC environment preparation
-* Testing repository access
-
-#### Preparation Checklist
-* Git installation on participant machines
-* GitHub account setup
-* SSH key generation
-* Access to demo repositories
-**Objective:** Master Git fundamentals and understand PKC as a knowledge management operating system with integrated continuous integration capabilities. Learn how to leverage open-source projects and the MVP card architecture for effective knowledge management.
-
----
-
-## Detailed Session Structure
-
 ### 1. PKC Implementation
 
 * **Implementation Structure**
