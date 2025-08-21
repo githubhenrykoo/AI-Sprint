@@ -2,7 +2,7 @@
 
 ## What is MCard?
 
-MCard (Memory Card) is a **content-addressable storage system** that revolutionizes how we store and retrieve digital information. Unlike traditional file systems that rely on filenames and folder structures, MCard identifies content by its **unique cryptographic hash**, creating an immutable and verifiable storage layer.
+MCard (Monadic card) is a **content-addressable storage system** that revolutionizes how we store and retrieve digital information. Unlike traditional file systems that rely on filenames and folder structures, MCard identifies content by its **unique cryptographic hash**, creating an immutable and verifiable storage layer.
 
 ### Traditional vs Content-Addressable Storage
 
