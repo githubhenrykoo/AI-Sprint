@@ -96,15 +96,85 @@ This document organizes all reading materials by session to provide a structured
 ## Session 4: Containerization with Docker
 
 ### Core Materials:
-- **Docker_Containerization.md** - Comprehensive guide to Docker containerization
+- **PKC_deployment.md** - Step-by-step guide to deploy PKC using Docker
+- **TOSIOS Docker Deployment Guide** *(to be created)* - Step-by-step instructions for containerizing the game
+
+### Practical Exercise:
+- **Download TOSIOS Game**: Students will download [TOSIOS GitHub Repository](https://github.com/halftheopposite/TOSIOS) to their local computers
+- **Docker Containerization**: Learn to deploy the downloaded game using Docker containers
+- **Local Development Setup**: Configure the game environment using containerization
 
 ### Video Resources:
+
+#### Installation Guides:
+- [Docker Installation on Windows](https://www.youtube.com/watch?v=JBEUKrjbWqg) - Step-by-step Windows installation
+- [Docker Installation on Mac](https://www.youtube.com/watch?v=-y1BmDbcaEU) - Step-by-step Mac installation
+
+#### Docker Concepts:
 - [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjnup-PuquQ) - Quick introduction
 - [What is Docker in 5 minutes](https://www.youtube.com/watch?v=_dfLOzuIg2o) - Visual explanation of Docker concepts
 
 ### Learning Objectives:
-- Understand container technology fundamentals
-- Learn Docker basics for local application deployment
-- Prepare for containerized application development
+- Understand container technology fundamentals through hands-on practice
+- Learn Docker basics by containerizing a real-world application (TOSIOS game)
+- Master local application deployment using Docker
+- Prepare for distributed gaming scenarios using containerized applications
+- Bridge the gap between Session 3 networking concepts and practical deployment
+
+### Optional Reading:
+- **Docker_Containerization.md** - Comprehensive guide to Docker containerization concepts (optional for deeper understanding)
 
 ---
+
+## Session 5: Ollama Setup and Exploration
+
+### Core Materials:
+- **Ollama_Usage_Guide.md** - How Ollama works and detailed usage instructions
+
+### Practical Exercise:
+- **Install Ollama**: Students will install Ollama on their local machines
+- **Configure LLM Models**: Set up and download language models through Ollama
+- **Test PKC Integration**: Ensure PKC deployment from Session 4 works with Ollama
+- **Hands-on LLM Usage**: Practice using local language models
+
+### Video Resources:
+- [Ollama Installation and Setup Guide](https://www.youtube.com/watch?v=UtSSMs6ObqY) - Complete Ollama setup tutorial
+
+### Learning Objectives:
+- Understand Large Language Model fundamentals and capabilities
+- Master Ollama installation and configuration
+- Learn to run local AI models on personal computers
+- Verify PKC system integration with local LLMs
+- Gain hands-on experience with privacy-preserving AI tools
+- Bridge containerized applications (Session 4) with AI capabilities
+
+### Optional Materials:
+- **LLM_Large_Language_Models.md** - Introduction to Large Language Models concepts and applications
+- **Ollama_Basic_Commands.md** - Essential Ollama commands and usage guide
+
+---
+
+## Session 6: PKC Deployment and Management
+
+### Core Materials:
+- **PKC_deployment.md** - Comprehensive guide to deploying PKC using Docker
+
+### Practical Exercise:
+- **Deploy PKC**: Follow step-by-step instructions to deploy PKC locally
+- **Verify Installation**: Ensure all components are running correctly
+- **Basic Operations**: Learn to use PKC's core features
+- **Troubleshooting**: Practice identifying and resolving common issues
+
+### Learning Objectives:
+- Master PKC deployment using Docker
+- Understand containerized application architecture
+- Learn to monitor and manage PKC services
+- Develop troubleshooting skills for containerized applications
+- Gain hands-on experience with PKC's features and capabilities
+
+### Optional Reading:
+- **Docker_Containerization.md** - In-depth look at Docker concepts
+- **Git_Version_Control.md** - For managing PKC configurations and customizations
+
+---
+

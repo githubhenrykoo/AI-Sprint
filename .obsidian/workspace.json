@@ -169,8 +169,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b01c2ba907ac0c0",
+  "active": "68d36483dff99366",
   "lastOpenFiles": [
+    "Materials/session 5.zip",
+    "Materials/session 5/Ollama_Usage_Guide.md",
+    "Materials/session 4.zip",
+    "Materials/session 5/Ollama_Basic_Commands.md",
+    "Materials/session 5/LLM_Large_Language_Models.md",
+    "Materials/session 5/PKC_deployment.md",
+    "Materials/session 5/Docker_Containerization.md",
+    "Materials/session 5",
+    "Materials/session 4 copy/PKC_deployment.md",
+    "Materials/session 4 copy/Docker_Containerization.md",
+    "Materials/session 4 copy",
+    "Materials/session 4/PKC_deployment.md",
+    "Materials/session 4/Docker_Containerization.md",
+    "Materials/session 4",
     "Fleeting/session_3/overlay vpn.md",
     "Fleeting/session_3/underlay vpn.md"
   ]
