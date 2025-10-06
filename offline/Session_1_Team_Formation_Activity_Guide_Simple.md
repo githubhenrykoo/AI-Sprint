@@ -21,3 +21,4 @@
 ## **Reference Documents**
 - **Team Structure and Rules Guide**: Complete team formation, roles, and collaboration guidelines
 - **GitHub Team Repository Setup Guide**: Technical setup instructions for team repositories
+- **Personal Learning Guide**: Daily progress documentation requirements and templates

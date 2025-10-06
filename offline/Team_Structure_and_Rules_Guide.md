@@ -7,6 +7,9 @@ This guide is used primarily in **Session 1: Team Formation** and serves as a re
 - Documentation templates and standards
 - Conflict resolution procedures
 
+## **Related Documentation**
+- **Personal Learning Guide**: Individual daily progress documentation requirements and templates
+
 ## **Team Structure & Rules**
 
 ### **Team Composition**
@@ -211,6 +214,7 @@ Each team member introduces themselves using Conversational Programming structur
 - **GitHub Discussions**: For team coordination and decision-making
 - **Telegram Group**: For real-time communication during hackathon
 - **Google Calendar**: For scheduling and deadline management
+- **NotebookLM**: For collaborative research, documentation synthesis, and AI-assisted knowledge management
 
 ### **Individual Learning Documentation Framework**
 

@@ -191,5 +191,17 @@ This bootcamp integrates the **Meta-Narrative Framework for Prologue of Spacetim
 - **Purpose**: Containerization and deployment
 - **Usage**: PKC deployment and system integration
 
+#### **NotebookLM**
+- **Platform**: https://notebooklm.google.com
+- **Purpose**: AI-powered research and documentation assistant
+- **Usage**: Team knowledge management, research synthesis, and collaborative note-taking
+
+### **Learning Documentation**
+
+#### **Personal Learning Guide**
+- **Purpose**: Individual daily progress documentation framework
+- **Usage**: Students document daily learning, challenges, solutions, and growth
+- **Integration**: Works with GitHub, NotebookLM, and team collaboration tools
+
 ### **Additional Resources**
 Students will receive detailed setup guides and documentation for each tool during the respective sessions.
