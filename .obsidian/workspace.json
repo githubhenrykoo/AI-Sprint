@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session_Material_reading_list/Session_Material_list.md",
-                "mode": "preview",
+                "file": "offline/Team_Structure_and_Rules_Guide.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session_Material_list"
+              "title": "Team_Structure_and_Rules_Guide"
             }
           }
         ]
@@ -169,8 +169,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "68d36483dff99366",
+  "active": "2b01c2ba907ac0c0",
   "lastOpenFiles": [
+    "offline/Session_1_Team_Formation_Activity_Guide.md",
+    "offline/Team_Structure_and_Rules_Guide.md",
+    "offline/Session_2_PKC_Deployment_Activity_Guide.md",
+    "offline/Session_4_IoT_PKC_Integration_Guide.md",
+    "offline/Session_5_BMAD_Method_Activity_Guide.md",
+    "offline/Session_6_Sovereign_Network_Project_Planning_Guide_Simple.md",
+    "offline/Session_3_IoT_Conversational_Interfaces_Guide.md",
+    "offline/Session_10_Showcase_Preparation_Guide.md",
+    "offline/Session_12_Graduation_Guide.md",
+    "offline/Session_11_Final_Showcase_Guide.md",
+    "offline/Schedule of Activities - BBS AI Hackathon 2025 - 2025.09.26-0722.docx.md",
+    "offline/Session_6_Sovereign_Network_Project_Planning_Guide.md",
+    "offline/Sessions_7-9_Team_Development_Guide.md",
+    "offline/PKC_API_Integration_Guide.md",
+    "offline/GitHub_Team_Repository_Setup_Guide.md",
+    "Schedule of Activities - BBS AI Hackathon 2025 - 2025.09.26-0722.docx.md",
+    "offline",
+    "Schedule of Activities - BBS AI Hackathon 2025 - 2025.09.26-0722.docx.md.new",
+    "Meta-Narrative Framework for Prologue of Spacetime.md",
+    "uscase.md",
+    "Session_Material_reading_list/Session_Material_list.md",
     "Materials/session 5.zip",
     "Materials/session 5/Ollama_Usage_Guide.md",
     "Materials/session 4.zip",
@@ -182,10 +203,6 @@
     "Materials/session 4 copy/PKC_deployment.md",
     "Materials/session 4 copy/Docker_Containerization.md",
     "Materials/session 4 copy",
-    "Materials/session 4/PKC_deployment.md",
-    "Materials/session 4/Docker_Containerization.md",
-    "Materials/session 4",
-    "Fleeting/session_3/overlay vpn.md",
-    "Fleeting/session_3/underlay vpn.md"
+    "Materials/session 4"
   ]
 }

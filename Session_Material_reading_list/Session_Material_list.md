@@ -154,13 +154,16 @@ This document organizes all reading materials by session to provide a structured
 
 ---
 
-## Session 6: PKC Deployment and Management
+## Session 6: PKC Deployment and Environment Configuration
 
 ### Core Materials:
-- **PKC_deployment.md** - Comprehensive guide to deploying PKC using Docker
+- **PKC_Deployment_Guide.md** - Comprehensive guide to deploying PKC using Docker
+- **PKC_Environment_Configuration.md** - Detailed guide for configuring PKC environment variables
+- **PKC_Troubleshooting_Guide.md** - Common issues and solutions for PKC deployment
 
 ### Practical Exercise:
 - **Deploy PKC**: Follow step-by-step instructions to deploy PKC locally
+- **Configure Environment**: Set up and verify the .env file with proper configuration
 - **Verify Installation**: Ensure all components are running correctly
 - **Basic Operations**: Learn to use PKC's core features
 - **Troubleshooting**: Practice identifying and resolving common issues
@@ -168,13 +171,64 @@ This document organizes all reading materials by session to provide a structured
 ### Learning Objectives:
 - Master PKC deployment using Docker
 - Understand containerized application architecture
-- Learn to monitor and manage PKC services
+- Learn to configure and manage environment variables
 - Develop troubleshooting skills for containerized applications
 - Gain hands-on experience with PKC's features and capabilities
 
 ### Optional Reading:
 - **Docker_Containerization.md** - In-depth look at Docker concepts
 - **Git_Version_Control.md** - For managing PKC configurations and customizations
+
+---
+
+## Session 7: Environment Configuration and Management
+
+### Core Materials:
+- **Environment_Variables_Guide.md** - Comprehensive guide to PKC environment configuration
+
+### Practical Exercise:
+- **Environment Setup**: Configure the `.env` file with required settings
+- **Configuration Testing**: Verify environment variables are properly loaded
+- **Environment Management**: Understand different configuration profiles
+- **Security Practices**: Learn to protect sensitive configuration data
+- **Troubleshooting**: Debug common environment-related issues
+
+### Learning Objectives:
+- Understand the role of environment variables in PKC
+- Master the configuration of PKC through environment variables
+- Learn best practices for managing sensitive configuration
+- Develop skills for troubleshooting configuration issues
+- Implement secure environment management practices
+
+### Optional Reading:
+- **Docker_Containerization.md** - For understanding container environment management
+- **Git_Version_Control.md** - For managing configuration files in version control
+
+---
+
+## Session 8: APIs and Google API Integration
+
+### Core Materials:
+- **What_is_API.md** - Comprehensive guide to understanding APIs and their importance
+- **Google_API_Integration.md** - Detailed documentation on Google API usage and integration
+
+### Practical Exercise:
+- **API Fundamentals**: Learn the basics of API architecture and communication
+- **Google API Setup**: Configure Google Cloud Console and API credentials
+- **API Integration**: Implement Google API calls in applications
+- **Error Handling**: Manage API responses and handle errors gracefully
+- **Security Practices**: Implement secure API authentication and usage
+
+### Learning Objectives:
+- Understand what APIs are and why they are important in modern software development
+- Master the fundamentals of REST API architecture and communication protocols
+- Learn to work with Google APIs including authentication and authorization
+- Develop skills for integrating third-party APIs into applications
+- Implement best practices for API security and error handling
+
+### Optional Reading:
+- **API_Application_Programming_Interface.md** - For deeper understanding of API concepts
+- **RAG_Retrieval_Augmented_Generation.md** - For understanding API usage in AI applications
 
 ---
 
