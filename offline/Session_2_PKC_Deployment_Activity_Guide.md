@@ -29,12 +29,13 @@
 ## **Track B: BMAD Method Introduction**
 
 ### **What Students Will Learn**
-- BMAD Method concepts and fundamentals
-- Introduction to Story Master, Developer, and QA agent roles
-- Understanding agentic workflow principles
+- BMAD Method overview and introduction
+- Basic concepts of Story Master, Developer, and QA agent roles
+- Introduction to agentic workflow principles
 - Overview of consensus mechanisms
 - Governance framework concepts
 - How BMAD Method will integrate with PKC systems
+- **Note**: Full BMAD implementation occurs in Session 5
 
 ### **Project Rules**
 - Students must understand BMAD Method concepts

@@ -1,5 +1,12 @@
 # Team Structure and Rules Guide
 
+## **Usage Context**
+This guide is used primarily in **Session 1: Team Formation** and serves as a reference throughout the entire hackathon. All teams should refer to this document for:
+- Team formation and role assignments
+- Collaboration guidelines and processes
+- Documentation templates and standards
+- Conflict resolution procedures
+
 ## **Team Structure & Rules**
 
 ### **Team Composition**
@@ -103,3 +110,139 @@ Teams should create a mission statement incorporating:
 - Cultural integration goals
 - Learning and teaching objectives
 - Consensus and governance principles
+
+## **Detailed Documentation Templates**
+
+### **Complete Strengths Documentation Template**
+Teams should document each member using this detailed structure:
+
+#### **Technical Strengths**
+- **Programming Languages**: List languages and proficiency level
+- **Hardware Experience**: IoT, electronics, sensors, etc.
+- **Software Tools**: IDEs, frameworks, platforms
+- **Development Experience**: Projects, internships, coursework
+
+#### **Soft Skills Strengths**
+- **Communication**: Presentation, writing, teaching, etc.
+- **Problem Solving**: Analytical thinking, debugging, troubleshooting
+- **Collaboration**: Team leadership, consensus building, conflict resolution
+- **Learning Style**: How they learn best and teach others
+
+#### **Domain Knowledge**
+- **AI/ML Experience**: Machine learning, AI tools, chatbots
+- **IoT Knowledge**: Sensors, microcontrollers, networking
+- **Web Development**: Frontend, backend, APIs, databases
+- **Project Management**: Planning, coordination, documentation
+
+#### **Personal Interests**
+- **Technology Areas**: What excites them most in tech
+- **Learning Goals**: What they want to learn during hackathon
+- **Teaching Strengths**: What they can teach others
+- **Creative Skills**: Design, storytelling, presentation
+
+#### **Availability & Preferences**
+- **Time Availability**: When they're most productive
+- **Work Style**: Individual focus vs. collaborative work
+- **Communication Preferences**: How they prefer to communicate
+- **Stress Management**: How they handle pressure and deadlines
+
+### **Detailed Project Component Responsibility Matrix**
+Teams should create a comprehensive matrix for each project component:
+
+#### **IoT & Hardware (ESP32, Sensors)**
+- **Primary Responsible**: Team member name and role
+- **Secondary Support**: Team member name and role
+- **Learning Goals**: What others will learn from this component
+
+#### **PKC Integration & Governance**
+- **Primary Responsible**: Team member name and role
+- **Secondary Support**: Team member name and role
+- **Learning Goals**: What others will learn from this component
+
+#### **Telegram Bot & Communication**
+- **Primary Responsible**: Team member name and role
+- **Secondary Support**: Team member name and role
+- **Learning Goals**: What others will learn from this component
+
+#### **BMAD Method & Agentic Workflows**
+- **Primary Responsible**: Team member name and role
+- **Secondary Support**: Team member name and role
+- **Learning Goals**: What others will learn from this component
+
+#### **Meta-Narrative Framework & Cultural Integration**
+- **Primary Responsible**: Team member name and role
+- **Secondary Support**: Team member name and role
+- **Learning Goals**: What others will learn from this component
+
+### **Team Setup Activities**
+
+#### **Team Strengths Mapping Activity**
+- **Strengths Matrix**: Create visual map of all team member strengths
+- **Gap Analysis**: Identify areas where team needs additional support
+- **Collaboration Opportunities**: Find overlapping interests for pair work
+- **Teaching Partnerships**: Match strong members with those wanting to learn
+- **Project Component Assignment**: Identify who will be responsible for different parts of the project
+
+#### **Meta-Narrative Introductions**
+Each team member introduces themselves using Conversational Programming structure:
+- **Input**: Personal background and documented strengths
+- **Context**: Hackathon goals and assigned team role
+- **Output**: How their strengths will contribute to team success
+- **Effects**: What they hope to learn and teach others based on their strengths
+
+### **Infrastructure Setup Guidelines**
+
+#### **GitHub Repository Setup**
+- **Repository Creation**: Team Technical Lead creates repository
+- **Repository Name**: `hackathon-2025-[team-name]`
+- **Team Member Access**: Add all team members as collaborators
+- **Repository Structure**: Organize docs, src, config, and assets folders
+- **Initial Documentation**: Create README, team charter, and strengths documentation
+
+#### **Google Calendar Setup**
+- **Calendar Creation**: Team Consensus Coordinator creates shared calendar
+- **Calendar Name**: "BBS Hackathon 2025 - Team [Name]"
+- **Team Member Access**: Add all team members with edit permissions
+- **Initial Events**: Add hackathon sessions, team meetings, and milestones
+- **Notification Setup**: Configure reminders for all team members
+
+#### **Communication Channels**
+- **GitHub Issues**: For technical discussions and task tracking
+- **GitHub Discussions**: For team coordination and decision-making
+- **Telegram Group**: For real-time communication during hackathon
+- **Google Calendar**: For scheduling and deadline management
+
+### **Individual Learning Documentation Framework**
+
+#### **Daily Learning Documentation**
+Each team member should maintain:
+- **Personal Learning Goals**: What they want to master during the hackathon
+- **Daily Learning Entries**: Regular documentation of progress and achievements
+- **Knowledge Sharing**: What they teach others and resources they create
+- **Challenges and Solutions**: Problems encountered and how they were resolved
+- **Future Focus**: Learning priorities and areas where support is needed
+
+#### **Component Mastery Documentation**
+For each project component, students should document:
+- **Responsibility Level**: Primary, secondary, or learning
+- **Skills Developed**: Specific technical and soft skills gained
+- **Contributions Made**: Code, documentation, and team contributions
+- **Understanding Achieved**: Depth of knowledge in the component
+- **Teaching Capabilities**: What aspects they can teach others
+- **Future Applications**: How they'll use this in future projects
+
+### **Workflow Templates**
+
+#### **Team Collaboration Workflows**
+- How to structure team development processes
+- Effective methods for tracking progress and decisions
+- Structured approaches to team decision-making
+- Processes for combining different project components
+- Methods for ensuring cultural sensitivity throughout development
+
+#### **Final Presentation Preparation**
+Each team member should prepare individual presentations covering:
+- **What I Learned**: Key technical skills, Meta-Narrative concepts, soft skills, valuable experiences
+- **What I Accomplished**: Code contributions, problems solved, team contributions, documentation created
+- **What I Completed**: Independent implementation capabilities, teaching skills, system understanding
+- **Future Project Plan**: Application of learnings, further exploration areas, continued learning needs

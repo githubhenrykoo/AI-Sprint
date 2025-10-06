@@ -16,3 +16,7 @@
 - Technical architecture must be documented
 - Cultural integration must be included in all designs
 - Implementation timeline must be realistic
+
+## **Prerequisites**
+- **Session 5 Completion**: Teams must have completed BMAD Method training
+- **Previous Sessions**: IoT setup (Session 3) and PKC integration (Session 4) must be functional

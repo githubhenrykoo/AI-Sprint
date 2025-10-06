@@ -33,6 +33,11 @@
 - Teams must help each other when needed
 - All code must be properly commented and documented
 
+## **Prerequisites**
+- **Session 6 Completion**: Project planning and BMAD Method setup must be complete
+- **Technical Stack Ready**: IoT (Session 3), PKC (Session 2), Integration (Session 4), BMAD (Session 5)
+- **Team Infrastructure**: GitHub repository and team collaboration tools functional
+
 #### **Conversational Programming Implementation Patterns**
 
 **Pattern 1: IoT Data Processing with Cultural Context**
