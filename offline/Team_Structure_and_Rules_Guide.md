@@ -15,15 +15,14 @@ This guide is used primarily in **Session 1: Team Formation** and serves as a re
 ### **Team Composition**
 - **Team Size**: 4-5 students per team
 - **Roles per Team**:
-  - **Narrative Architect**: Designs story structure and Meta-Narrative flow
   - **Technical Lead**: Handles PKC integration and IoT implementation
-  - **Conversational Programmer**: Specializes in monadic thinking and typed arrows
-  - **Consensus Coordinator**: Manages team governance and validation processes
-  - **Cultural Integrator**: Ensures cultural sensitivity and knowledge integration
+  - **Documentation Lead**: Manages project documentation and progress tracking
+  - **Communication Lead**: Manages team communication and coordination
+  - **Quality Lead**: Handles testing and quality assurance
 
 ### **Team Formation Rules (Trainer-Assigned)**
 1. **Skill Balance**: Trainers ensure each team has mixed skill levels (beginner, intermediate, advanced)
-2. **Cognitive Compatibility**: Trainers form teams based on Conversational Programming assessment results
+2. **Team Compatibility**: Trainers form teams based on assessment results
 3. **No Self-Selection**: Students do not choose their own teams - all assignments made by trainers
 
 ## **Team Rules**
@@ -36,25 +35,25 @@ This guide is used primarily in **Session 1: Team Formation** and serves as a re
 
 ## **Team Roles Explained**
 
-### **Narrative Architect**
-- **Primary Responsibility**: Design story structure and Meta-Narrative flow
-- **Key Skills**: Storytelling, cultural awareness, narrative design
-- **Daily Tasks**: Create team narratives, ensure cultural integration, lead story development
-
 ### **Technical Lead**
 - **Primary Responsibility**: Handle PKC integration and IoT implementation
 - **Key Skills**: Technical architecture, system integration, troubleshooting
 - **Daily Tasks**: Manage technical decisions, oversee system integration, coordinate with other teams
 
-### **Conversational Programmer**
-- **Primary Responsibility**: Specialize in monadic thinking and typed arrows
-- **Key Skills**: Programming patterns, AI interaction design, code architecture
-- **Daily Tasks**: Implement conversational programming patterns, design AI interactions, code review
+### **Documentation Lead**
+- **Primary Responsibility**: Manage project documentation and progress tracking
+- **Key Skills**: Writing, organization, project management
+- **Daily Tasks**: Maintain GitHub documentation, track team progress, coordinate session notes
 
-### **Consensus Coordinator**
-- **Primary Responsibility**: Manage team governance and validation processes
-- **Key Skills**: Facilitation, conflict resolution, process management
-- **Daily Tasks**: Lead team meetings, facilitate consensus decisions, manage team processes
+### **Communication Lead**
+- **Primary Responsibility**: Manage team communication and coordination
+- **Key Skills**: Communication, facilitation, scheduling
+- **Daily Tasks**: Lead team meetings, manage calendar, coordinate with trainers and other teams
+
+### **Quality Lead**
+- **Primary Responsibility**: Handle testing and quality assurance
+- **Key Skills**: Testing, debugging, code review, quality control
+- **Daily Tasks**: Test system functionality, review code quality, ensure project standards
 
 ## **Team Collaboration Guidelines**
 
@@ -99,8 +98,7 @@ Teams should create a matrix identifying who is responsible for each project com
 - **IoT & Hardware (ESP32, Sensors)**: Primary and secondary responsible members
 - **PKC Integration & Governance**: Primary and secondary responsible members
 - **Telegram Bot & Communication**: Primary and secondary responsible members
-- **BMAD Method & Agentic Workflows**: Primary and secondary responsible members
-- **Meta-Narrative Framework & Cultural Integration**: Primary and secondary responsible members
+- **BMAD Method & Workflows**: Primary and secondary responsible members
 
 #### **Cross-Cutting Responsibilities**
 - **Documentation & Presentation**: Primary responsible with all members contributing
@@ -110,9 +108,8 @@ Teams should create a matrix identifying who is responsible for each project com
 ### **Team Mission Statement**
 Teams should create a mission statement incorporating:
 - Technical objectives (PKC, IoT, BMAD integration)
-- Cultural integration goals
 - Learning and teaching objectives
-- Consensus and governance principles
+- Team collaboration principles
 
 ## **Detailed Documentation Templates**
 
@@ -172,10 +169,6 @@ Teams should create a comprehensive matrix for each project component:
 - **Secondary Support**: Team member name and role
 - **Learning Goals**: What others will learn from this component
 
-#### **Meta-Narrative Framework & Cultural Integration**
-- **Primary Responsible**: Team member name and role
-- **Secondary Support**: Team member name and role
-- **Learning Goals**: What others will learn from this component
 
 ### **Team Setup Activities**
 
@@ -186,12 +179,12 @@ Teams should create a comprehensive matrix for each project component:
 - **Teaching Partnerships**: Match strong members with those wanting to learn
 - **Project Component Assignment**: Identify who will be responsible for different parts of the project
 
-#### **Meta-Narrative Introductions**
-Each team member introduces themselves using Conversational Programming structure:
-- **Input**: Personal background and documented strengths
-- **Context**: Hackathon goals and assigned team role
-- **Output**: How their strengths will contribute to team success
-- **Effects**: What they hope to learn and teach others based on their strengths
+#### **Team Introductions**
+Each team member introduces themselves including:
+- **Background**: Personal background and documented strengths
+- **Role**: Hackathon goals and assigned team role
+- **Contribution**: How their strengths will contribute to team success
+- **Goals**: What they hope to learn and teach others based on their strengths
 
 ### **Infrastructure Setup Guidelines**
 
@@ -242,11 +235,11 @@ For each project component, students should document:
 - Effective methods for tracking progress and decisions
 - Structured approaches to team decision-making
 - Processes for combining different project components
-- Methods for ensuring cultural sensitivity throughout development
+- Methods for ensuring quality and collaboration throughout development
 
 #### **Final Presentation Preparation**
 Each team member should prepare individual presentations covering:
-- **What I Learned**: Key technical skills, Meta-Narrative concepts, soft skills, valuable experiences
+- **What I Learned**: Key technical skills, programming concepts, soft skills, valuable experiences
 - **What I Accomplished**: Code contributions, problems solved, team contributions, documentation created
 - **What I Completed**: Independent implementation capabilities, teaching skills, system understanding
 - **Future Project Plan**: Application of learnings, further exploration areas, continued learning needs

@@ -1,7 +1,7 @@
-# Session 2: PKC Integration with Meta-Narrative & Agentic Workflows Activity Guide
+# Session 2: PKC Deployment & BMAD Method Activity Guide
 
 ## **Session Overview**
-**Objective**: Deploy PKC as computational governance system, catch up on online session requirements, and introduce BMAD Method integration
+**Objective**: Deploy PKC for team collaboration, catch up on online session requirements, and introduce BMAD Method integration
 
 ## **Session Structure**
 
@@ -64,7 +64,7 @@
 
 ### **Universal Success Metrics (All Students)**
 - [ ] Individual GitHub account with SSH keys configured
-- [ ] Team repository following Meta-Narrative Framework structure
+- [ ] Team repository following proper project structure
 - [ ] Team charter and governance documents committed
 - [ ] Collaborative workflow tested and functional
 - [ ] Repository integrated with PKC configuration
@@ -111,10 +111,10 @@
 ## **Expected Outcomes**
 
 By the end of Session 2, all students will have:
-1. **Functional PKC deployment** configured as governance system
-2. **GovTech directory structure** ready for Meta-Narrative work
+1. **Functional PKC deployment** configured for team collaboration
+2. **Project directory structure** ready for team collaboration
 3. **BMAD Method integration** (advanced students) or understanding (catch-up students)
-4. **GitHub team repository** with proper Meta-Narrative Framework structure
+4. **GitHub team repository** with proper project structure
 5. **Collaborative development workflow** established with team members
 6. **API integrations** (Google, Telegram) configured and tested
 7. **Team synchronization** with common technical foundation
@@ -122,7 +122,7 @@ By the end of Session 2, all students will have:
 
 ## **Transition to Session 3**
 Teams are now prepared for Session 3 where they will:
-- Integrate IoT devices with PKC governance systems
-- Apply Conversational Programming to physical-digital bridges
-- Implement resource-aware computation patterns
-- Begin autonomous system development
+- Integrate IoT devices with PKC systems
+- Learn ESP32 programming and sensor integration
+- Create basic Telegram bot interfaces
+- Begin system integration development

@@ -1,10 +1,9 @@
 # Session 1: Team Formation Activity Guide
 
 ## **Session Overview**
-**Objective**: Introduce Meta-Narrative Framework, assess student capabilities, and form balanced teams
+**Objective**: Assess student capabilities and form balanced teams for hackathon collaboration
 
 ## **What Students Will Learn**
-- Meta-Narrative Framework basics
 - Team collaboration principles
 - Individual strengths identification
 - GitHub repository setup

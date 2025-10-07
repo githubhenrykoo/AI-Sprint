@@ -1,48 +1,47 @@
 # Session 11: Final Showcase Activity Guide
 
 ## **Session Overview**
-**Objective**: Final validation of autonomous systems and Meta-Narrative project showcases
+**Objective**: Final presentation of team projects and integrated systems
 
 ## **What Students Will Learn**
-- Final system validation techniques
+- Final system testing and validation techniques
 - Professional presentation and demonstration skills
-- Autonomous system showcase methods
-- Meta-Narrative Framework presentation
-- Conversational Programming mastery demonstration
-- Self-governing system explanation and defense
+- Project showcase methods
+- Team collaboration presentation
+- Technical system explanation and defense
 
 ## **Project Rules**
-- All autonomous systems must pass final validation
+- All team projects must pass final validation
 - Teams must present their complete integrated systems
 - Demonstrations must show PKC-IoT-BMAD integration
-- Presentations must demonstrate Conversational Programming mastery
-- Teams must explain their Meta-Narrative Framework implementation
 - All team members must participate in the showcase
+- Projects must demonstrate working functionality
 
 ## **Session Structure**
 
 ### **First Hour: Final Validation**
-- Autonomous system consensus mechanism testing
-- Final integration validation
-- System reliability and performance verification
+- System integration testing
+- Final functionality validation
+- Performance verification
 - Last-minute bug fixes and optimizations
 
-### **Second Hour: Meta-Narrative Showcases**
-- Team presentations of autonomous systems
+### **Second Hour: Team Project Showcases**
+- Team presentations of integrated systems
 - Live demonstrations of PKC-IoT-BMAD integration
-- Conversational Programming pattern explanations
-- Meta-Narrative Framework implementation showcase
+- Technical implementation explanations
+- Team collaboration and learning showcase
 - Q&A and peer feedback sessions
 
 ## **Showcase Requirements**
 
 ### **Technical Demonstration**
-- Working autonomous system with all components integrated
-- Live demonstration of IoT sensors, PKC governance, and Telegram bot
+- Working integrated system with all components
+- Live demonstration of IoT sensors, PKC, and Telegram bot
 - BMAD Method workflow demonstration
-- Consensus mechanisms and decision-making processes
+- Team collaboration and decision-making processes
 
-### **Meta-Narrative Presentation**
+### **Team Presentation**
 - Team story and journey through the hackathon
-- Explanation of Conversational Programming patterns used
-- Autonomous system governance and self-healing capabilities
+- Explanation of technical implementation
+- Challenges overcome and solutions found
+- Individual and team learning outcomes

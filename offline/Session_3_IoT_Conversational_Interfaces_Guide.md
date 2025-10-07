@@ -1,4 +1,4 @@
-{{ ... }}
+# Session 3: IoT Conversational Interfaces Activity Guide
 
 ## **Session Overview**
 **Objective**: Learn basic IoT device programming with ESP32 and sensors
